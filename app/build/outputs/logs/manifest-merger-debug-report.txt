@@ -1,0 +1,229 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/ferch5003/Downloads/Sender/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /home/ferch5003/Downloads/Sender/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /home/ferch5003/Downloads/Sender/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /home/ferch5003/Downloads/Sender/app/src/main/AndroidManifest.xml:2:1-41:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/ferch5003/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/5548b06ed1c255a8509bc4240cfa2024/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] /home/ferch5003/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.0.0.aar/ee334b6245b5dce1315faa1b65f9c364/AndroidManifest.xml:17:1-32:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/ferch5003/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/376038405afcd45431f49518ed4e4f55/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/ferch5003/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/24214f6fa60a687ad13468353e7af14f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/ferch5003/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/db7778823f13c80c5c6771d0162e044a/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/ferch5003/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/d4bfc7bf8294d00ffd522cca305769ad/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/ferch5003/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/e1c2eee54e262c82ec308e5416b2c400/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /home/ferch5003/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/3709057e6f47570f945e04f3da1fcbc4/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/ferch5003/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/6d64edd409b56c7ee21a7ad6cd74a9ab/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/ferch5003/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/8b0f8570c0a3878b63e66467fd0267a5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/ferch5003/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/623e7e32ea2ce82c3e38feac8bab509f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/ferch5003/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/cbd62b2efa0b0de32e594466cb53b150/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/ferch5003/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/5ab62758862cfdaa064fb6bdb7d2e147/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/ferch5003/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/dda4341f0771cb8a394c3f03805b3af0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/ferch5003/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/c90df3ca001ca0439fa024eb7c2a1597/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/ferch5003/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/b6c8d940ef3928d2b2b92011a76145a2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/ferch5003/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/ef51f003d98d8b3a5d9c9b0251878ea2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/ferch5003/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/cb78e77da3853d48ffd6a40fd1065e6e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/ferch5003/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/033c8b89beac63b970a42697c8a63104/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/ferch5003/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/896f15a85decbc33faeb39842559fc03/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/ferch5003/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/eb783893a2d8d66ae596e636733c56e3/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/ferch5003/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/7d0e4fd1f7e3d901a3fe639221cf5ead/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/ferch5003/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/10db1979778fab5bb3b58160f85852f1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/ferch5003/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/291fe8a89f87a1fad28cb7df50983c2b/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/ferch5003/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/ce27ccdda3fdd7d74f801e04ad296341/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/ferch5003/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/310934f06815ec4481ec51411aa27756/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/ferch5003/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/276b60c3ef7e1b0800a9fd58f99aee07/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/ferch5003/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/52a1980ddeb20039c83553f7757990b0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/ferch5003/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/f7707d8566e6fc757de0b3cec4edd981/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/ferch5003/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/1eb2819d1410f87dc8233f5c9a4d6f03/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/ferch5003/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/4924765b05a782f1063ffd9ed1faeb59/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/ferch5003/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/9c11b1ea63a371b5236b4f51bae7527c/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/ferch5003/Downloads/Sender/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /home/ferch5003/Downloads/Sender/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /home/ferch5003/Downloads/Sender/app/src/main/AndroidManifest.xml:2:1-41:12
+	package
+		ADDED from /home/ferch5003/Downloads/Sender/app/src/main/AndroidManifest.xml:3:5-27
+		INJECTED from /home/ferch5003/Downloads/Sender/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ferch5003/Downloads/Sender/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/ferch5003/Downloads/Sender/app/src/main/AndroidManifest.xml
+		ADDED from /home/ferch5003/Downloads/Sender/app/src/main/AndroidManifest.xml:2:1-41:12
+		INJECTED from /home/ferch5003/Downloads/Sender/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/ferch5003/Downloads/Sender/app/src/main/AndroidManifest.xml
+		ADDED from /home/ferch5003/Downloads/Sender/app/src/main/AndroidManifest.xml:2:1-41:12
+		INJECTED from /home/ferch5003/Downloads/Sender/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/ferch5003/Downloads/Sender/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/ferch5003/Downloads/Sender/app/src/main/AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from /home/ferch5003/Downloads/Sender/app/src/main/AndroidManifest.xml:9:22-76
+application
+ADDED from /home/ferch5003/Downloads/Sender/app/src/main/AndroidManifest.xml:11:5-39:19
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] /home/ferch5003/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.0.0.aar/ee334b6245b5dce1315faa1b65f9c364/AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] /home/ferch5003/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.0.0.aar/ee334b6245b5dce1315faa1b65f9c364/AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/ferch5003/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/db7778823f13c80c5c6771d0162e044a/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/ferch5003/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/db7778823f13c80c5c6771d0162e044a/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/ferch5003/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/d4bfc7bf8294d00ffd522cca305769ad/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/ferch5003/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/d4bfc7bf8294d00ffd522cca305769ad/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/ferch5003/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/e1c2eee54e262c82ec308e5416b2c400/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/ferch5003/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/e1c2eee54e262c82ec308e5416b2c400/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/ferch5003/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/3709057e6f47570f945e04f3da1fcbc4/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/ferch5003/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/3709057e6f47570f945e04f3da1fcbc4/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/ferch5003/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/6d64edd409b56c7ee21a7ad6cd74a9ab/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/ferch5003/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/6d64edd409b56c7ee21a7ad6cd74a9ab/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:28.0.0] /home/ferch5003/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/eb783893a2d8d66ae596e636733c56e3/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/ferch5003/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/eb783893a2d8d66ae596e636733c56e3/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/ferch5003/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/7d0e4fd1f7e3d901a3fe639221cf5ead/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/ferch5003/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/7d0e4fd1f7e3d901a3fe639221cf5ead/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/ferch5003/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/eb783893a2d8d66ae596e636733c56e3/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /home/ferch5003/Downloads/Sender/app/src/main/AndroidManifest.xml:16:9-35
+	android:label
+		ADDED from /home/ferch5003/Downloads/Sender/app/src/main/AndroidManifest.xml:14:9-41
+	android:roundIcon
+		ADDED from /home/ferch5003/Downloads/Sender/app/src/main/AndroidManifest.xml:15:9-54
+	android:icon
+		ADDED from /home/ferch5003/Downloads/Sender/app/src/main/AndroidManifest.xml:13:9-43
+	android:allowBackup
+		ADDED from /home/ferch5003/Downloads/Sender/app/src/main/AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from /home/ferch5003/Downloads/Sender/app/src/main/AndroidManifest.xml:17:9-40
+meta-data#com.google.android.geo.API_KEY
+ADDED from /home/ferch5003/Downloads/Sender/app/src/main/AndroidManifest.xml:26:9-28:55
+	android:value
+		ADDED from /home/ferch5003/Downloads/Sender/app/src/main/AndroidManifest.xml:28:13-52
+	android:name
+		ADDED from /home/ferch5003/Downloads/Sender/app/src/main/AndroidManifest.xml:27:13-58
+activity#edinc.sender.MapsActivity
+ADDED from /home/ferch5003/Downloads/Sender/app/src/main/AndroidManifest.xml:30:9-38:20
+	android:label
+		ADDED from /home/ferch5003/Downloads/Sender/app/src/main/AndroidManifest.xml:32:13-56
+	android:name
+		ADDED from /home/ferch5003/Downloads/Sender/app/src/main/AndroidManifest.xml:31:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/ferch5003/Downloads/Sender/app/src/main/AndroidManifest.xml:33:13-37:29
+action#android.intent.action.MAIN
+ADDED from /home/ferch5003/Downloads/Sender/app/src/main/AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from /home/ferch5003/Downloads/Sender/app/src/main/AndroidManifest.xml:34:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/ferch5003/Downloads/Sender/app/src/main/AndroidManifest.xml:36:17-77
+	android:name
+		ADDED from /home/ferch5003/Downloads/Sender/app/src/main/AndroidManifest.xml:36:27-74
+uses-sdk
+INJECTED from /home/ferch5003/Downloads/Sender/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/ferch5003/Downloads/Sender/app/src/main/AndroidManifest.xml
+INJECTED from /home/ferch5003/Downloads/Sender/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/ferch5003/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/5548b06ed1c255a8509bc4240cfa2024/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/ferch5003/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/5548b06ed1c255a8509bc4240cfa2024/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] /home/ferch5003/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.0.0.aar/ee334b6245b5dce1315faa1b65f9c364/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] /home/ferch5003/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.0.0.aar/ee334b6245b5dce1315faa1b65f9c364/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/ferch5003/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/376038405afcd45431f49518ed4e4f55/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/ferch5003/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/376038405afcd45431f49518ed4e4f55/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/ferch5003/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/24214f6fa60a687ad13468353e7af14f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/ferch5003/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/24214f6fa60a687ad13468353e7af14f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/ferch5003/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/db7778823f13c80c5c6771d0162e044a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/ferch5003/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/db7778823f13c80c5c6771d0162e044a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/ferch5003/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/d4bfc7bf8294d00ffd522cca305769ad/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/ferch5003/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/d4bfc7bf8294d00ffd522cca305769ad/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/ferch5003/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/e1c2eee54e262c82ec308e5416b2c400/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/ferch5003/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/e1c2eee54e262c82ec308e5416b2c400/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /home/ferch5003/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/3709057e6f47570f945e04f3da1fcbc4/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /home/ferch5003/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/3709057e6f47570f945e04f3da1fcbc4/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/ferch5003/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/6d64edd409b56c7ee21a7ad6cd74a9ab/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/ferch5003/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/6d64edd409b56c7ee21a7ad6cd74a9ab/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:28.0.0] /home/ferch5003/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/8b0f8570c0a3878b63e66467fd0267a5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/ferch5003/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/8b0f8570c0a3878b63e66467fd0267a5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/ferch5003/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/623e7e32ea2ce82c3e38feac8bab509f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/ferch5003/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/623e7e32ea2ce82c3e38feac8bab509f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/ferch5003/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/cbd62b2efa0b0de32e594466cb53b150/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/ferch5003/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/cbd62b2efa0b0de32e594466cb53b150/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/ferch5003/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/5ab62758862cfdaa064fb6bdb7d2e147/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/ferch5003/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/5ab62758862cfdaa064fb6bdb7d2e147/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/ferch5003/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/dda4341f0771cb8a394c3f03805b3af0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/ferch5003/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/dda4341f0771cb8a394c3f03805b3af0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/ferch5003/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/c90df3ca001ca0439fa024eb7c2a1597/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/ferch5003/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/c90df3ca001ca0439fa024eb7c2a1597/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/ferch5003/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/b6c8d940ef3928d2b2b92011a76145a2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/ferch5003/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/b6c8d940ef3928d2b2b92011a76145a2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/ferch5003/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/ef51f003d98d8b3a5d9c9b0251878ea2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/ferch5003/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/ef51f003d98d8b3a5d9c9b0251878ea2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/ferch5003/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/cb78e77da3853d48ffd6a40fd1065e6e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/ferch5003/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/cb78e77da3853d48ffd6a40fd1065e6e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/ferch5003/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/033c8b89beac63b970a42697c8a63104/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/ferch5003/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/033c8b89beac63b970a42697c8a63104/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/ferch5003/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/896f15a85decbc33faeb39842559fc03/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/ferch5003/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/896f15a85decbc33faeb39842559fc03/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/ferch5003/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/eb783893a2d8d66ae596e636733c56e3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/ferch5003/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/eb783893a2d8d66ae596e636733c56e3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/ferch5003/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/7d0e4fd1f7e3d901a3fe639221cf5ead/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/ferch5003/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/7d0e4fd1f7e3d901a3fe639221cf5ead/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/ferch5003/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/10db1979778fab5bb3b58160f85852f1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/ferch5003/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/10db1979778fab5bb3b58160f85852f1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/ferch5003/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/291fe8a89f87a1fad28cb7df50983c2b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/ferch5003/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/291fe8a89f87a1fad28cb7df50983c2b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/ferch5003/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/ce27ccdda3fdd7d74f801e04ad296341/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/ferch5003/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/ce27ccdda3fdd7d74f801e04ad296341/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/ferch5003/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/310934f06815ec4481ec51411aa27756/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/ferch5003/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/310934f06815ec4481ec51411aa27756/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/ferch5003/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/276b60c3ef7e1b0800a9fd58f99aee07/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/ferch5003/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/276b60c3ef7e1b0800a9fd58f99aee07/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/ferch5003/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/52a1980ddeb20039c83553f7757990b0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/ferch5003/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/52a1980ddeb20039c83553f7757990b0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/ferch5003/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/f7707d8566e6fc757de0b3cec4edd981/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/ferch5003/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/f7707d8566e6fc757de0b3cec4edd981/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/ferch5003/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/1eb2819d1410f87dc8233f5c9a4d6f03/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/ferch5003/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/1eb2819d1410f87dc8233f5c9a4d6f03/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/ferch5003/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/4924765b05a782f1063ffd9ed1faeb59/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/ferch5003/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/4924765b05a782f1063ffd9ed1faeb59/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/ferch5003/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/9c11b1ea63a371b5236b4f51bae7527c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/ferch5003/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/9c11b1ea63a371b5236b4f51bae7527c/AndroidManifest.xml:20:5-44
+INJECTED from /home/ferch5003/Downloads/Sender/app/src/main/AndroidManifest.xml
+INJECTED from /home/ferch5003/Downloads/Sender/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:26.1.0] /home/ferch5003/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/3709057e6f47570f945e04f3da1fcbc4/AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from /home/ferch5003/Downloads/Sender/app/src/main/AndroidManifest.xml
+		ADDED from /home/ferch5003/Downloads/Sender/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ferch5003/Downloads/Sender/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/ferch5003/Downloads/Sender/app/src/main/AndroidManifest.xml
+		ADDED from /home/ferch5003/Downloads/Sender/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ferch5003/Downloads/Sender/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:16.0.0] /home/ferch5003/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.0.0.aar/ee334b6245b5dce1315faa1b65f9c364/AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:16.0.0] /home/ferch5003/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.0.0.aar/ee334b6245b5dce1315faa1b65f9c364/AndroidManifest.xml:23:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.android.gms:play-services-maps:16.0.0] /home/ferch5003/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.0.0.aar/ee334b6245b5dce1315faa1b65f9c364/AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:16.0.0] /home/ferch5003/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.0.0.aar/ee334b6245b5dce1315faa1b65f9c364/AndroidManifest.xml:24:22-64
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:16.0.0] /home/ferch5003/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.0.0.aar/ee334b6245b5dce1315faa1b65f9c364/AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:16.0.0] /home/ferch5003/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.0.0.aar/ee334b6245b5dce1315faa1b65f9c364/AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:16.0.0] /home/ferch5003/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.0.0.aar/ee334b6245b5dce1315faa1b65f9c364/AndroidManifest.xml:28:9-32
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/ferch5003/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/db7778823f13c80c5c6771d0162e044a/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/ferch5003/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/db7778823f13c80c5c6771d0162e044a/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/ferch5003/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/db7778823f13c80c5c6771d0162e044a/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/ferch5003/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/db7778823f13c80c5c6771d0162e044a/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.0.1] /home/ferch5003/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/e1c2eee54e262c82ec308e5416b2c400/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /home/ferch5003/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/e1c2eee54e262c82ec308e5416b2c400/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /home/ferch5003/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/e1c2eee54e262c82ec308e5416b2c400/AndroidManifest.xml:24:13-58
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:26.1.0] /home/ferch5003/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/3709057e6f47570f945e04f3da1fcbc4/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/ferch5003/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/6d64edd409b56c7ee21a7ad6cd74a9ab/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/ferch5003/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/6d64edd409b56c7ee21a7ad6cd74a9ab/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:support-v4:26.1.0] /home/ferch5003/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/3709057e6f47570f945e04f3da1fcbc4/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:support-v4:26.1.0] /home/ferch5003/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/3709057e6f47570f945e04f3da1fcbc4/AndroidManifest.xml:27:13-51
